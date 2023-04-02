@@ -1,1 +1,1 @@
-# content-aws-certified-cloud-practioner
+aws-certified-cloud-practioner
